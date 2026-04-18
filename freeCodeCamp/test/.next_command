@@ -48,3 +48,4 @@ __vsc_prompt_cmd_original
 test
 cd test
 pwd
+ls --color=auto
